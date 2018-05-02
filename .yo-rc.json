@@ -37,6 +37,7 @@
     "languages": [
       "en",
       "es"
-    ]
+    ],
+    "herokuDeployType": "git"
   }
 }
